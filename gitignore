@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+ENV/
+env.bak/
+
+# Streamlit temp
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# macOS & system
+.DS_Store
+*.swp
